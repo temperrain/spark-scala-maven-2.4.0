@@ -4,7 +4,7 @@
 - 微博: https://weibo.com/thinktothings
 
 ## 更多资源
-- SPARK 1.6.0-cdh5.15.0 源码分析: https://github.com/opensourceteams/spark-scala-maven
+- SPARK 1.6.0-cdh5.15.0 源码分析: https://github.com/temperrain/spark-scala-maven
 
 ## 前置条件
 - Hadoop版本: hadoop-2.9.2
@@ -16,7 +16,7 @@
 ## Spark 环境配置
 
 #### Spark 2.4.0 standalone 模式安装
-   - Spark 2.4.0 standalone 模式安装（详细说明文档)： https://github.com/opensourceteams/spark-scala-maven-2.4.0/blob/master/md/standaloneInstall.md
+   - Spark 2.4.0 standalone 模式安装（详细说明文档)： https://github.com/temperrain/spark-scala-maven-2.4.0/blob/master/md/standaloneInstall.md
 
 
 ## Spark 2.4.0 编程指南
